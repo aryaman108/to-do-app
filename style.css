@@ -1,0 +1,34 @@
+BODY{
+    text-align: center;
+    background-color: black;
+}
+
+button{
+    border-radius: 20%;
+    border: 2px solid goldenrod;
+    background-color: gold;
+    margin: 2px;
+    height: 1.5rem;
+    font-size: 1.02rem;
+}
+
+button:hover{
+    font-weight: 700;
+    color: goldenrod;
+    background-color: black;
+    border: 2px solid goldenrod;
+}
+
+h1{
+    color:gold;
+    text-decoration:black underline wavy;
+}
+
+ul{
+    border: 3px solid goldenrod;
+    color: goldenrod;
+    background-color: #000010;
+    position: relative;
+    left: 30%;
+    width: 35rem;
+}
